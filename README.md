@@ -1,28 +1,29 @@
-# Hello! 👋
+# Hey there! 👋
 
 ## I'm Maroof Lone
 
-A wanderer in the world of bits and bytes
+**Kashmiri at Heart | OSINT Enthusiast | Blogger | Media & Research Analyst**  
+### 🚀 About Me
 
-### About Me
+I'm a curious explorer diving into the worlds of technology, media, and cybersecurity. I enjoy uncovering hidden insights, analyzing digital trends, and helping people better understand the online world. I’m passionate about making the internet a more informed and secure space.
 
-Currently navigating the vast ocean of technology. Learning to speak machine while keeping my human touch.
+### 🎯 What I'm Up To
 
-### Goals
+- Exploring open-source intelligence (OSINT) and digital investigations 🔍  
+- Writing blogs and sharing insights on tech, media, and the digital world ✍️  
+- Learning new tools and technologies to stay ahead in cybersecurity and research 💡  
 
-My primary goal is to make the internet a safer place. I’m driven to apply my skills to improve security and privacy in digital spaces.
+### 🛠️ Skills
 
-### Skills
+- **Languages:** HTML, CSS  
+- **Technologies:** WordPress, MySQL, AWS  
+- **Tools:** Git, Docker, VSCode  
 
-- **Languages**: HTML, CSS
-- **Technologies**: WordPress, MySQL, AWS
-- **Tools**: Git, Docker, VSCode
+### 🌐 Find Me Online
 
-### Connect with Me
+- 🔗 **Website:** [marooflone.com](https://www.marooflone.com)  
+- 📩 **Email:** [hello@marooflone.com](mailto:hello@marooflone.com)  
+- 💼 **LinkedIn:** [Maroof Lone](https://www.linkedin.com/in/marooflone13)  
+- 🐦 **Twitter:** [@marooflone13](https://twitter.com/marooflone13)  
 
-## 📫 Contact Me
-
-- 🌐 Website: [My Website](https://www.marooflone.com)
-- ✉️ Email: [hello@marooflone.com](mailto:hello@marooflone.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/marooflone13)
-- 🐦 Twitter: [Twitter Handle](https://twitter.com/marooflone13)
+Let's connect and collaborate!
